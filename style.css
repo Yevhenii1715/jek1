@@ -1,0 +1,50 @@
+
+div {
+    color: red;
+  }
+  
+  
+  .blue {
+    color: blue;
+  }
+  
+  
+  #green {
+    color: green;
+  }
+  
+  
+  [data-color="orange"] {
+    color: orange;
+  }
+  
+  
+  section span {
+    color: purple;
+  }
+  
+  
+  ul > li {
+    color: brown;
+  }
+  
+  
+  p + p {
+    color: teal;
+  }
+  
+  
+  h1.title {
+    color: darkred;
+  }
+  
+  
+  a[href="#"] {
+    color: navy;
+  }
+  
+  
+  .combo#special {
+    color: darkorange;
+  }
+  
